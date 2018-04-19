@@ -3,6 +3,7 @@ Advanced JS
 
 On my quest of learning JavaScript here are some more advanced concepts.
 
+[Demo](https://camillekonami.github.io/question-game/)
 
 #### Coding Challenge
 
@@ -39,7 +40,7 @@ programmers code (Hint: we learned a special technique to do exactly that).
 game never ends (Hint: write a function for this and call it right after displaying
 the result).
 
-0. Be careful: after Task 8, the game literally never ends. So include the option
+9. Be careful: after Task 8, the game literally never ends. So include the option
 to quit the game if the user writes 'exit' instead of the answer. In this case,
 DON'T call the function from task 8.
 
